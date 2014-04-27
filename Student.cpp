@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Christian Goodman. All rights reserved.
 //
 
-#include "ChristianGoodman_P-2.h"
+#include "Student.h"
 #include <string>
 #include <string.h>
 #include <iomanip>
