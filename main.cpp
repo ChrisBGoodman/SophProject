@@ -9,7 +9,7 @@
 #include <fstream>
 #include <iostream>
 #include <iomanip>
-#include "ChristianGoodman_P-2.h"
+#include "Student.h"
 #include <vector>
 
 using namespace std;
